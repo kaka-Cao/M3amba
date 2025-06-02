@@ -1,5 +1,6 @@
 <div align="center">
 <h1> M<sup>3</sup>amba </h1>
+<h3> Accepted by TCSVT </h3>
 <h3> M<sup>3</sup>amba: CLIP-driven Mamba Model for Multi-modal Fusion</h3>
 
 </div>
