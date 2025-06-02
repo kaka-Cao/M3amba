@@ -53,9 +53,10 @@ python utils/crop.py
 
 ### Begin to train and test
 
-Modify the path in data_loader.py and test.py to yours then run 
+Modify the path in data_loader.py and train/test.py to yours, then run 
 
 ```python
+python train.py
 python test.py
 ```
 
